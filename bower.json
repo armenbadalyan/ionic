@@ -1,0 +1,23 @@
+{
+    "name": "tabbedSlideBox",
+    "authors": [
+        "Armen Badalyan <flexer87@gmail.com>"
+    ],
+    "description": "Ionic Tabbed Slidebox",
+    "main": ["tabbedSlideBox/tabSlideBox.js", "tabbedSlideBox/tabSlideBox.css"],
+    "moduleType": [],
+    "keywords": [
+        "tab",
+        "slide",
+        "box"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
